@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArticulationPoints
+comment1.params=graph
+comment1.target=java.util.Collection\ findArticulationPoints(Graph)
+comment1.text=\r\n\ Return\ a\ collection\ of\ all\ the\ Stops\ in\ the\ graph\ that\ are\ articulation\ points.\r\n
+comment2.params=current\ d\ parent\ depth\ aPoints
+comment2.target=int\ recArtPts(Stop,\ int,\ Stop,\ java.util.Map,\ java.util.Set)
+comment2.text=\r\n\ Returns\ the\ reachback\ of\ each\ node\ in\ conjunction\ to\ their\ ancestry\ nodes\ to\ identify\ whether\ they're\ articulation\ points\ \r\n
+numComments=3

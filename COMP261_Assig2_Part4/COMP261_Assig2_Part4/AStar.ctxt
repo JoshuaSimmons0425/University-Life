@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AStar
+comment1.params=start\ goal
+comment1.target=java.util.List\ findShortestPath(Stop,\ Stop)
+comment1.text=\r\n\ Finds\ the\ shortest\ path\ between\ two\ stops\r\n
+comment2.params=start\ goal\ backPointer
+comment2.target=java.util.List\ reconstructPath(Stop,\ Stop,\ java.util.Map)
+comment2.text=\r\n\ Reconstructs\ the\ shortest\ path\ by\ using\ the\ back\ pointers\r\n
+comment3.params=prev\ next
+comment3.target=boolean\ shouldAddWaitPenalty(Edge,\ Edge)
+comment3.text=\r\n\ Helper\ method\ to\ determine\ if\ a\ wait\ penalty\ should\ be\ applied\ when\ transiting\ transport\ types\ and/or\ lines\r\n
+comment4.params=from\ to
+comment4.target=double\ estimateTime(Stop,\ Stop)
+comment4.text=\r\n\ For\ Part\ 4\:\ New\ heuristic\ helper\ method\ of\ getting\ the\ time\ between\ two\ stops\ based\ on\ train\ speed\r\n
+numComments=5
