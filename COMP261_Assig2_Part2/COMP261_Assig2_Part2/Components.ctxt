@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Components
+comment1.params=graph
+comment1.target=java.util.Map\ findComponents(Graph)
+comment2.params=current\ visited\ postOrder
+comment2.target=void\ dfsPostOrder(Stop,\ java.util.Set,\ java.util.List)
+comment3.params=current\ visited\ components\ id
+comment3.target=void\ dfsAssignComponent(Stop,\ java.util.Set,\ java.util.Map,\ int)
+numComments=4
