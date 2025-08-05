@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KMP
+comment0.text=\r\n\ A\ new\ KMP\ instance\ is\ created\ for\ every\ substring\ search\ performed.\ Both\ the\r\n\ pattern\ and\ the\ text\ are\ passed\ to\ the\ constructor\ and\ the\ search\ method.\ You\r\n\ could,\ for\ example,\ use\ the\ constructor\ to\ create\ the\ match\ table\ and\ the\r\n\ search\ method\ to\ perform\ the\ search\ itself.\r\n
+comment1.params=pattern\ text
+comment1.target=int\ search(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Perform\ KMP\ substring\ search\ on\ the\ given\ text\ with\ the\ given\ pattern.\r\n\ \r\n\ This\ should\ return\ the\ starting\ index\ of\ the\ first\ substring\ match\ if\ it\r\n\ exists,\ or\ -1\ if\ it\ doesn't.\r\n
+comment2.params=pattern
+comment2.target=int[]\ computeLPS(java.lang.String)
+comment2.text=\r\n\ Compute\ the\ Longest\ Prefix\ Suffix\ (LPS)\ array\ used\ to\ skip\ unnecessary\ comparisons\r\n
+numComments=3

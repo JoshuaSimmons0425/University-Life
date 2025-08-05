@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HuffmanCoding
+comment1.params=character\ frequency
+comment1.target=Node(char,\ int)
+comment2.params=text
+comment2.target=HuffmanCoding(java.lang.String)
+comment3.params=node\ codeSoFar
+comment3.target=void\ buildCodeMap(Node,\ java.lang.String)
+comment3.text=\r\n\ Recursive\ method\ to\ build\ the\ character-to-code\ map\ from\ the\ Huffman\ Tree.\r\n
+comment4.params=text
+comment4.target=java.lang.String\ encode(java.lang.String)
+comment4.text=\r\n\ Take\ an\ input\ string,\ text,\ and\ encode\ it\ with\ the\ stored\ tree.\ Should\r\n\ return\ the\ encoded\ text\ as\ a\ binary\ string,\ that\ is,\ a\ string\ containing\r\n\ only\ 1\ and\ 0.\r\n
+comment5.params=encoded
+comment5.target=java.lang.String\ decode(java.lang.String)
+comment5.text=\r\n\ Take\ encoded\ input\ as\ a\ binary\ string,\ decode\ it\ using\ the\ stored\ tree,\r\n\ and\ return\ the\ decoded\ text\ as\ a\ text\ string.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getInformation()
+comment6.text=\r\n\ The\ getInformation\ method\ is\ here\ for\ your\ convenience,\ you\ don't\ need\ to\r\n\ fill\ it\ in\ if\ you\ don't\ wan\ to.\ It\ is\ called\ on\ every\ run\ and\ its\ return\r\n\ value\ is\ displayed\ on-screen.\ You\ could\ use\ this,\ for\ example,\ to\ print\r\n\ out\ the\ encoding\ tree.\r\n
+numComments=7

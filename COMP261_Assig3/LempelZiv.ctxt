@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LempelZiv
+comment1.params=input
+comment1.target=java.lang.String\ compress(java.lang.String)
+comment1.text=\r\n\ Take\ uncompressed\ input\ as\ a\ text\ string,\ compress\ it,\ and\ return\ it\ as\ a\r\n\ text\ string.\r\n
+comment2.params=compressed
+comment2.target=java.lang.String\ decompress(java.lang.String)
+comment2.text=\r\n\ Take\ compressed\ input\ as\ a\ text\ string,\ decompress\ it,\ and\ return\ it\ as\ a\r\n\ text\ string.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getInformation()
+comment3.text=\r\n\ The\ getInformation\ method\ is\ here\ for\ your\ convenience,\ you\ don't\ need\ to\r\n\ fill\ it\ in\ if\ you\ don't\ want\ to.\ It\ is\ called\ on\ every\ run\ and\ its\ return\r\n\ value\ is\ displayed\ on-screen.\ You\ can\ use\ this\ to\ print\ out\ any\ relevant\r\n\ information\ from\ your\ compression.\r\n
+numComments=4
